@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+#app{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+#markdown textarea{
+    width: 50vw;
+    height: 100%;
+
+    background-color: lightgray;
+}
+#render{
+    width: 50vw;
+    height: 100%;
+}
